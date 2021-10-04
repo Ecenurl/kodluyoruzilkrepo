@@ -15,7 +15,7 @@ code .
 Pull requester kabul edilir.Büyük değişiklikler için , lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## Picture 
-![example](markdown.png)
+![markdown](C:\Users\acer\Downloads\markdown.png)
 
 ## License
 [MIT](https://github.com/Ecenurl/kodluyoruzilkrepo/blob/main/LICENSE) 
